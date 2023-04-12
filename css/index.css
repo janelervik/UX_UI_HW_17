@@ -6,7 +6,21 @@
     top: -24px;
     top: -24px;
 }
-.home {
-    color: #7ea172
-    
+li {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 26px 61px;
+    gap: 10px;
+
+    position: absolute;
+    width: 226px;
+    height: 99px;
+    left: 643px;
+    top: 136px;
+
+    background: #7EA172;
+    border-radius: 30px;
+
 }
