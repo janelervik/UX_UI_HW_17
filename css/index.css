@@ -1,7 +1,12 @@
-logo {
+.logo {
     position: absolute;
     width: 385px;
     height: 385px;
     left: -9px;
     top: -24px;
+    top: -24px;
+}
+.home {
+    color: #7ea172
+    
 }
