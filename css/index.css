@@ -1,3 +1,7 @@
+body {
+    background-color: #F7EEE9;
+}
+
 .logo {
     position: absolute;
     width: 385px;
@@ -6,7 +10,7 @@
     top: -24px;
     top: -24px;
 }
-li {
+.About {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -22,5 +26,11 @@ li {
 
     background: #7EA172;
     border-radius: 30px;
+
+    width: 226px;
+    height: Hug (99px);
+    top: 136px;
+    left: 643px;
+
 
 }
